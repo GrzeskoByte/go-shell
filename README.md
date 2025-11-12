@@ -1,3 +1,8 @@
-# go-shell
-# go-shell
-# go-shell
+Basic terminal in Go
+
+Supported operations:
+
+- type
+- echo
+- pwd
+- $PATH processing and binaries execution
